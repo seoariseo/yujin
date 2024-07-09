@@ -125,8 +125,10 @@ body {
 /* #container 영역 */
 #container {
     height: 500px;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
 }
+
+
 
 .view {
     height: 300px;
@@ -237,8 +239,12 @@ body {
 .baro p a img {}
 
 
+
+/* #footer 영역 */
+
 #footer {
     height: 100px;
+    /* background-color: beige; */
 }
 
 .f_left {
@@ -340,9 +346,3 @@ body {
 
 
 
-
-/* #footer 영역 */
-#footer {
-    height: 100px;
-    background-color: beige;
-}
